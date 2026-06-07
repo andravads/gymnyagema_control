@@ -108,7 +108,7 @@ export const profile: Profile = {
       name: 'Growth Log',
       description: 'Public notes on building this thing from zero.',
       longDescription:
-        'Transparent documentation of building a content presence — what works, what flops, what the analytics show, and what gets tested next. If you"re building something too, this one"s for you.',
+        "Transparent documentation of building a content presence — what works, what flops, what the analytics show, and what gets tested next. If you're building something too, this one's for you.",
       topics: [
         'Content experiment results',
         'Analytics breakdowns',
